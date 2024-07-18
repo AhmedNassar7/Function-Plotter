@@ -51,4 +51,4 @@ This is a simple function plotter that allows users to input a mathematical func
 
 ### Wrong Example
 
-![Wrong Example]()
+![Wrong Example](examples/wrong_example.png)
