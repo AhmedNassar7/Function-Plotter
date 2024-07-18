@@ -1,6 +1,6 @@
 # Function Plotter
 
-This is a Python GUI program that plots an arbitrary user-entered function using PySide6 and Matplotlib.
+This Python GUI application allows users to plot arbitrary functions using PySide2 and Matplotlib.
 
 ## Requirements
 
