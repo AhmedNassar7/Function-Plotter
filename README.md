@@ -14,7 +14,7 @@ This is a Python GUI program that plots an arbitrary user-entered function using
 
 1. Clone the repository:
     ```sh
-    git clone <your-repository-url>
+    
     cd function_plotter
     ```
 
