@@ -1,6 +1,8 @@
 # Function Plotter
 
-This Python GUI application allows users to plot arbitrary functions using PySide2 and Matplotlib.
+## Description
+
+This is a simple function plotter that allows users to input a mathematical function of x, and plots the function over a specified range of x values. The GUI is built using PySide2, and the plotting is done using Matplotlib.
 
 ## Requirements
 
@@ -15,21 +17,38 @@ This Python GUI application allows users to plot arbitrary functions using PySid
 1. Clone the repository:
     ```sh
     git clone https://github.com/AhmedNassar7/Master-Micro.git
-    cd function_plotter
+    cd Function Plotter
     ```
 
-2. Install the required packages:
-    ```sh
+2. Create and activate a virtual environment:
+
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    ```
+
+3. Install the required packages:
+
+    ```bash
     pip install -r requirements.txt
     ```
 
 ## Usage
 
-Run the application:
-```sh
-python main.py
-```
+1. Run the application:
+
+    ```bash
+    python main.py
+    ```
+
+2. Enter the function, min value, and max value, and click "Plot Function" to see the graph.
 
 ## Snapshots
 
+### Working Example
+
 ![Working Example](examples/working_example.png)
+
+### Wrong Example
+
+![Wrong Example]()
