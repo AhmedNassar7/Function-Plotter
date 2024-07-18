@@ -28,6 +28,7 @@ This Python GUI application allows users to plot arbitrary functions using PySid
 Run the application:
 ```sh
 python main.py
+```
 
 ## Snapshots
 
