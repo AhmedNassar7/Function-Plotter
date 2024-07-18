@@ -1,10 +1,10 @@
 # Function Plotter
 
-## Description
+## 📃 Description
 
 This is a simple function plotter that allows users to input a mathematical function of x, and plots the function over a specified range of x values. The GUI is built using PySide2, and the plotting is done using Matplotlib.
 
-## Requirements
+## ⚙️ Requirements
 
 - Python 3.6+
 - PySide6
@@ -12,7 +12,7 @@ This is a simple function plotter that allows users to input a mathematical func
 - pytest
 - pytest-qt
 
-## Setup
+## 🚀 Setup
 
 1. Clone the repository:
     ```sh
@@ -33,7 +33,7 @@ This is a simple function plotter that allows users to input a mathematical func
     pip install -r requirements.txt
     ```
 
-## Usage
+## 📈 Usage
 
 1. Run the application:
 
@@ -43,7 +43,7 @@ This is a simple function plotter that allows users to input a mathematical func
 
 2. Enter the function, min value, and max value, and click "Plot Function" to see the graph.
 
-## Snapshots
+## 📷 Snapshots
 
 ### Working Example
 
