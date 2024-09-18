@@ -16,7 +16,7 @@ This is a simple function plotter that allows users to input a mathematical func
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/AhmedNassar7/Master-Micro.git
+    git clone https://github.com/AhmedNassar7/Function-Plotter.git
     cd Function Plotter
     ```
 
